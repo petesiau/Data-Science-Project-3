@@ -11,10 +11,7 @@ setwd("./UCI HAR Dataset")
 library(data.table)
 library(dplyr)
 
-## --- Set Working directory ---
-workdir <- getwd()
-
-## -- Capture the feature and activity labels ---
+## --- Capture the feature and activity labels ---
 feature_list <- read.table("workdir/features.txt")
 activity_labels <- read.table("./UCI HAR Dataset/activity_labels.txt")
 
