@@ -54,8 +54,11 @@ This dataset is distributed AS-IS and no responsibility implied or explicit can 
 Jorge L. Reyes-Ortiz, Alessandro Ghio, Luca Oneto, Davide Anguita. November 2012.
 
 Raw Data transformation
+
 The raw data sets are processed with the script run_analysis.R script to create a tidy data set.
+
 Steps:
+
 1.	Merge training and test sets Test and training data sets into a single temporary dataset
 2.	Extract the columns with mean and standard deviation (std) variables
 3.	Create a new temporary data set with 2 new columns appended for Activity and Subject, and replace the Activity column with description
