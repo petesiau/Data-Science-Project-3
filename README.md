@@ -9,8 +9,8 @@
 ## Set working directory ---
 ## --- Load required R packages: data.table, dplyr
 
-## --- Capture the feature and activity labels
-## --- Read in the given tables from the training set
+        ## --- Capture the feature and activity labels
+        ## --- Read in the given tables from the training set
 ## --- Read in the given tables from the test set
 ## --- Part 1. Merge the Training and Test data sets to create 1 data set
 ## --- Part 2. Extracts only the measurements on the mean and standard deviation for each measurement
