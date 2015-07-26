@@ -6,7 +6,7 @@
         ##
         ## Project     : Module 3 Project
 
-        ## Set working directory ---
+        ## --- Set working directory ---
         ## --- Load required R packages: data.table, dplyr
 
         ## --- Capture the feature and activity labels
@@ -15,10 +15,10 @@
         ## --- Part 1. Merge the Training and Test data sets to create 1 data set
         ## --- Part 2. Extracts only the measurements on the mean and standard deviation for each measurement
         ## --- Part 3. Uses descriptive activity names to name the activities in the data set
-        - Append additional columns for activity & subject
-        - Create a new merged dataset with 2 addition columns appended
-        - Change the activity column from numeric to character
-        - Replace the Activity column with description
+                - Append additional columns for activity & subject
+                - Create a new merged dataset with 2 addition columns appended
+                - Change the activity column from numeric to character
+                - Replace the Activity column with description
 
         ## --- Part 4. Appropriately labels the data set with descriptive variable names.
                 - Use gsub() function replaces all matches of a string
