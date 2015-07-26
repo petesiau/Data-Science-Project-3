@@ -7,10 +7,9 @@
 ## Project     : Module 3 Project
 
 ## --- Set working directory ---
-## --- Load required R packages ---
-data.table, dplyr
+## --- Load required R packages: data.table, dplyr
 
-## -- Capture the feature and activity labels ---
+## --- Capture the feature and activity labels ---
 ## --- Read in the given tables from the training set ---
 ## --- Read in the given tables from the test set ---
 ## --- Part 1. Merge the Training and Test data sets to create 1 data set
