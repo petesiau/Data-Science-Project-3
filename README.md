@@ -1,10 +1,10 @@
 # Data-Science-Project-3
 
-## Program Name: run_analysis.R
-## Author      : Siau Yen Phin
-## Date Created: 24 July 2015
-##
-## Project     : Module 3 Project
+        ## Program Name: run_analysis.R
+        ## Author      : Siau Yen Phin
+        ## Date Created: 24 July 2015
+        ##
+        ## Project     : Module 3 Project
 
         ## Set working directory ---
         ## --- Load required R packages: data.table, dplyr
